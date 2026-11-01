@@ -4396,6 +4396,11 @@ const tournamentData = {
       "name": "NBP Yoru",
       "team": "Nut Buster Pride",
       "status": "Active"
+    },
+    {
+      "name": "KING : Gween",
+      "team": "HACHIMI KING",
+      "status": "Active"
     }
   ],
   "matches": [
@@ -4468,7 +4473,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "KING : Gwenn.",
+              "player": "KING : Gween",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 0
@@ -4610,7 +4615,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "KING : Gwenn.",
+              "player": "KING : Gween",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 8
@@ -4643,7 +4648,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Nads",
+              "player": "[EVR] Nads",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 5,
@@ -4651,14 +4656,14 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Riel",
+              "player": "[EVR] Riel",
               "uma": "Tamamo Cross",
               "style": "EC",
               "points": 0
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Zodiackey",
+              "player": "[EVR] Zodiackey",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 8
@@ -4714,7 +4719,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Deextra",
+              "player": "[EVR] Deextra",
               "uma": "Summer Maruzensky",
               "style": "FR",
               "points": 1,
@@ -4722,14 +4727,14 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Lio",
+              "player": "[EVR] Lio",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 10
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Riel",
+              "player": "[EVR] Riel",
               "uma": "Oguri Cap Christmas",
               "style": "LS",
               "points": 12
@@ -4785,7 +4790,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Lio",
+              "player": "[EVR] Lio",
               "uma": "Daiwa Scarlet",
               "style": "FR",
               "points": 1,
@@ -4793,14 +4798,14 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Riel",
+              "player": "[EVR] Riel",
               "uma": "Special Week",
               "style": "PC",
               "points": 0
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Zodiackey",
+              "player": "[EVR] Zodiackey",
               "uma": "Gold Ship",
               "style": "EC",
               "points": 3
@@ -4870,7 +4875,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoBOLT",
-              "player": "CB-Riandyz",
+              "player": "CB - Riandyz",
               "uma": "Inari One Festival",
               "style": "EC",
               "points": 5,
@@ -4878,7 +4883,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - BAKUSIN O",
+              "player": "CB - BAKUSHIN O",
               "uma": "Gold Ship",
               "style": "EC",
               "points": 3
@@ -4941,7 +4946,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoBOLT",
-              "player": "CB-Riandyz",
+              "player": "CB - Riandyz",
               "uma": "Inari One",
               "style": "LS",
               "points": 0,
@@ -4949,7 +4954,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Isana",
+              "player": "CB - isana",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 10
@@ -5012,7 +5017,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoBOLT",
-              "player": "CB-Riandyz",
+              "player": "CB - Riandyz",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 5,
@@ -5027,7 +5032,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Isana",
+              "player": "CB - isana",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 8
@@ -5097,7 +5102,7 @@ const tournamentData = {
           "results": [
             {
               "team": "DOMINATOR",
-              "player": "DOMI | JARAN",
+              "player": "DOMI | Jaran",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 8,
@@ -5149,7 +5154,7 @@ const tournamentData = {
             },
             {
               "team": "Nom de l'équipe",
-              "player": "Digifly",
+              "player": "Digiflyy",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 0
@@ -5227,7 +5232,7 @@ const tournamentData = {
             },
             {
               "team": "Nom de l'équipe",
-              "player": "Andy",
+              "player": "DMY* andy",
               "uma": "Vodka",
               "style": "LS",
               "points": 0
@@ -5239,7 +5244,7 @@ const tournamentData = {
           "results": [
             {
               "team": "DOMINATOR",
-              "player": "DOMI | JARAN",
+              "player": "DOMI | Jaran",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 0,
@@ -5778,7 +5783,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoBOLT",
-              "player": "CB-Riandyz",
+              "player": "CB - Riandyz",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 0,
@@ -5837,7 +5842,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "KING : Gwenn",
+              "player": "KING : Gween",
               "uma": "Sakura Chiyono O",
               "style": "PC",
               "points": 0
@@ -5908,7 +5913,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "KING : Gwenn",
+              "player": "KING : Gween",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 8
@@ -5928,7 +5933,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - NIRWANA",
+              "player": "CB - NIRUWANA",
               "uma": "Oguri Cap Christmas",
               "style": "EC",
               "points": 8
@@ -6005,7 +6010,7 @@ const tournamentData = {
           "results": [
             {
               "team": "DOMINATOR",
-              "player": "DOMI | keyy",
+              "player": "DOMI | Keyy",
               "uma": "Vodka",
               "style": "LS",
               "points": 0,
@@ -6020,7 +6025,7 @@ const tournamentData = {
             },
             {
               "team": "DOMINATOR",
-              "player": "DOMI | Soundwave",
+              "player": "DOMI | SOUNDWAVE",
               "uma": "Narita Taishin",
               "style": "EC",
               "points": 0
@@ -6084,7 +6089,7 @@ const tournamentData = {
             },
             {
               "team": "DOMINATOR",
-              "player": "DOMI | Soundwave",
+              "player": "DOMI | SOUNDWAVE",
               "uma": "Narita Brian",
               "style": "PC",
               "points": 1
@@ -6162,7 +6167,7 @@ const tournamentData = {
             },
             {
               "team": "DOMINATOR",
-              "player": "DOMI | Soundwave",
+              "player": "DOMI | SOUNDWAVE",
               "uma": "T.M. Opera O New Year",
               "style": "PC",
               "points": 5
@@ -6489,7 +6494,7 @@ const tournamentData = {
             },
             {
               "team": "Kentucky Crispy",
-              "player": "KC Zaijun",
+              "player": "KC Zaijunstd",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 12
@@ -6694,7 +6699,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "[PTP] Satiryah",
+              "player": "[PTP] Satria",
               "uma": "Nice Nature Cherleader",
               "style": "LS",
               "points": 0
@@ -6730,7 +6735,7 @@ const tournamentData = {
             },
             {
               "team": "YADA YADA MASTER",
-              "player": "Symboli ev",
+              "player": "Symboli Ev",
               "uma": "Mejiro McQueen Summer",
               "style": "PC",
               "points": 8,
@@ -6765,7 +6770,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "[PTP] Satirya",
+              "player": "[PTP] Satria",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 5
@@ -6801,7 +6806,7 @@ const tournamentData = {
             },
             {
               "team": "YADA YADA MASTER",
-              "player": "Symboli ev",
+              "player": "Symboli Ev",
               "uma": "Sweep Tosho",
               "style": "EC",
               "points": 10,
@@ -6836,7 +6841,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "[PTP] Satiryah",
+              "player": "[PTP] Satria",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 8
@@ -6872,7 +6877,7 @@ const tournamentData = {
             },
             {
               "team": "YADA YADA MASTER",
-              "player": "Symboli ev",
+              "player": "Symboli Ev",
               "uma": "Sweep Tosho",
               "style": "EC",
               "points": 1,
@@ -6921,7 +6926,7 @@ const tournamentData = {
             },
             {
               "team": "CastoGOLF",
-              "player": "GOLF | MSal",
+              "player": "GOLF | Msal",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 5
@@ -6992,7 +6997,7 @@ const tournamentData = {
             },
             {
               "team": "CastoGOLF",
-              "player": "GOLF | MSal",
+              "player": "GOLF | Msal",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 0
@@ -7062,7 +7067,7 @@ const tournamentData = {
             },
             {
               "team": "CastoGOLF",
-              "player": "GOLF | MSal",
+              "player": "GOLF | Msal",
               "uma": "Yukino Bijin",
               "style": "PC",
               "points": 0
@@ -7388,7 +7393,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Shirouma",
+              "player": "Queen : Shirouma",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 0,
@@ -7396,21 +7401,21 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "King Halo Cheerleader",
               "style": "LS",
               "points": 0
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Daiwa Scarlet",
               "style": "FR",
               "points": 5
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | ARLINI#2",
+              "player": "KATSU | Arlini#2",
               "uma": "Yamanin Zephyr",
               "style": "PC",
               "points": 12,
@@ -7418,14 +7423,14 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | NESS",
+              "player": "KATSU | Ness",
               "uma": "Fine Motion Wedding",
               "style": "PC",
               "points": 8
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | FRANNAR",
+              "player": "KATSU | Frannar",
               "uma": "Mejiro Dober",
               "style": "LS",
               "points": 0
@@ -7459,7 +7464,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Yukiii",
+              "player": "Queen : Yukiii",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 8,
@@ -7467,14 +7472,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "Haru Urara",
               "style": "EC",
               "points": 10
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "El Condor Pasa",
               "style": "PC",
               "points": 1
@@ -7489,14 +7494,14 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | REY1",
+              "player": "KATSU | Rey1",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 0
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | NESS",
+              "player": "KATSU | Ness",
               "uma": "Gold City",
               "style": "LS",
               "points": 0
@@ -7538,14 +7543,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Shirouma",
+              "player": "Queen : Shirouma",
               "uma": "Daiwa Scarlet",
               "style": "FR",
               "points": 8
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Yukiii",
+              "player": "Queen : Yukiii",
               "uma": "Tamamo Cross",
               "style": "EC",
               "points": 0
@@ -7560,7 +7565,7 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | REY1",
+              "player": "KATSU | Rey1",
               "uma": "Goldship",
               "style": "LS",
               "points": 1
@@ -7615,7 +7620,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "NBG zreck",
+              "player": "NBG ZrecKun",
               "uma": "Oguri Cap Christmas",
               "style": "EC",
               "points": 12,
@@ -7623,21 +7628,21 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "NBG pria berkuda",
+              "player": "NBG PriaBerkuda",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 8
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "NBG qiqi",
+              "player": "NBG Qiqi",
               "uma": "Mejiro Dober",
               "style": "LS",
               "points": 0
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] YamskuY",
+              "player": "[LGD] YamskuY.",
               "uma": "Sakura Chiyono O",
               "style": "PC",
               "points": 0,
@@ -7686,7 +7691,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "NBG qiqi",
+              "player": "NBG Qiqi",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 0,
@@ -7701,14 +7706,14 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "NBG zreck",
+              "player": "NBG ZrecKun",
               "uma": "Narita Taisin",
               "style": "EC",
               "points": 8
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] YamskuY",
+              "player": "[LGD] YamskuY.",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 12,
@@ -7757,7 +7762,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "NBG super kumar",
+              "player": "NBG SuperKumar",
               "uma": "Nice Nature",
               "style": "LS",
               "points": 0,
@@ -7765,7 +7770,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "NBG pria berkuda",
+              "player": "NBG PriaBerkuda",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 0
@@ -7779,7 +7784,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] YamskuY",
+              "player": "[LGD] YamskuY.",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 5,
@@ -8162,7 +8167,7 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'aikonFRAG",
+              "player": "S'Aikonfrag",
               "uma": "Super Creek",
               "style": "PC",
               "points": 0,
@@ -8509,14 +8514,14 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Slayerz",
+              "player": "LoL - SlayerZ ○",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 10
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Joseph",
+              "player": "LoL - JoSeph ○",
               "uma": "Vodka",
               "style": "LS",
               "points": 8
@@ -8580,14 +8585,14 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Slayerz",
+              "player": "LoL - SlayerZ ○",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 12
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Ryu akashi",
+              "player": "LoL - Ryu Akashi ○",
               "uma": "Mejiro dober",
               "style": "LS",
               "points": 1
@@ -8643,7 +8648,7 @@ const tournamentData = {
           "results": [
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - NAMELES",
+              "player": "LoL - Nameles ○",
               "uma": "Maruzensky",
               "style": "PC",
               "points": 0,
@@ -8651,14 +8656,14 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Joseph",
+              "player": "LoL - JoSeph ○",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 3
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Ryu akashi",
+              "player": "LoL - Ryu Akashi ○",
               "uma": "Mejiro dober",
               "style": "LS",
               "points": 0
@@ -8758,7 +8763,7 @@ const tournamentData = {
             },
             {
               "team": "ABYSS",
-              "player": "[ABYS] Mspone",
+              "player": "[ABYS] MsPone",
               "uma": "Meisho Doto Halloween",
               "style": "PC",
               "points": 0
@@ -8787,7 +8792,7 @@ const tournamentData = {
             },
             {
               "team": "Kentucky Crispy",
-              "player": "KC Anti Karbit",
+              "player": "KC AntiKarbit",
               "uma": "Admire Vega",
               "style": "EC",
               "points": 8
@@ -8821,7 +8826,7 @@ const tournamentData = {
             },
             {
               "team": "ABYSS",
-              "player": "[ABYS] Erem",
+              "player": "[ABYS] eReM",
               "uma": "Maruzensky Summer",
               "style": "FR",
               "points": 5,
@@ -8829,14 +8834,14 @@ const tournamentData = {
             },
             {
               "team": "ABYSS",
-              "player": "[ABYS] Arshmelia",
+              "player": "[ABYS] ARSHMELIA",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 8
             },
             {
               "team": "ABYSS",
-              "player": "[ABYS] Yusha",
+              "player": "[ABYS] YUSHA",
               "uma": "Narita Taishin",
               "style": "EC",
               "points": 0
@@ -8891,21 +8896,21 @@ const tournamentData = {
             },
             {
               "team": "ABYSS",
-              "player": "[ABYS] Erem",
+              "player": "[ABYS] eReM",
               "uma": "Fine Motion Weeding",
               "style": "PC",
               "points": 0
             },
             {
               "team": "ABYSS",
-              "player": "[ABYS] Arshmelia",
+              "player": "[ABYS] ARSHMELIA",
               "uma": "Maruzensky Summer",
               "style": "FR",
               "points": 8
             },
             {
               "team": "ABYSS",
-              "player": "[ABYS] Yusha",
+              "player": "[ABYS] YUSHA",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 5
@@ -9200,7 +9205,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) ALDNOVA",
+              "player": "[PTP] Aldnova",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 8,
@@ -9208,14 +9213,14 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) SATIRYA",
+              "player": "[PTP] Satria",
               "uma": "Smart Falcon",
               "style": "FR",
               "points": 0
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) GOLCHEEKS",
+              "player": "[PTP] Golcheeks",
               "uma": "Agnes Digital",
               "style": "LS",
               "points": 3
@@ -9237,7 +9242,7 @@ const tournamentData = {
             },
             {
               "team": "SEIRYUU",
-              "player": "[SR] Kimchaewon",
+              "player": "[SR] KimChaewon",
               "uma": "Smart Falcon Grand Concert",
               "style": "FR",
               "points": 1
@@ -9271,7 +9276,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) ALDNOVA",
+              "player": "[PTP] Aldnova",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 12,
@@ -9279,21 +9284,21 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) SATIRYA",
+              "player": "[PTP] Satria",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 1
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) NAYSUOR",
+              "player": "[PTP] naysuor",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0
             },
             {
               "team": "SEIRYUU",
-              "player": "[SR] Kimchaewon",
+              "player": "[SR] KimChaewon",
               "uma": "Narita Taishin",
               "style": "EC",
               "points": 3,
@@ -9342,7 +9347,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) GOLCHEEKS",
+              "player": "[PTP] Golcheeks",
               "uma": "Gold ship",
               "style": "EC",
               "points": 0,
@@ -9350,14 +9355,14 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) SATIRYA",
+              "player": "[PTP] Satria",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 5
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "(PTP) NAYSUOR",
+              "player": "[PTP] naysuor",
               "uma": "Oguri Cap",
               "style": "PC",
               "points": 0
@@ -9413,7 +9418,7 @@ const tournamentData = {
             },
             {
               "team": "Nom de l'équipe",
-              "player": "Dmy andy",
+              "player": "DMY* andy",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 5
@@ -9427,7 +9432,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "super kumar",
+              "player": "NBG SuperKumar",
               "uma": "Agnes Digital Halloween",
               "style": "LS",
               "points": 0,
@@ -9435,14 +9440,14 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "Pria berkuda",
+              "player": "NBG PriaBerkuda",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 12
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "qiqi",
+              "player": "NBG Qiqi",
               "uma": "Tamamo Cross Festival",
               "style": "PC",
               "points": 8
@@ -9498,7 +9503,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "zreck",
+              "player": "NBG ZrecKun",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 12,
@@ -9513,7 +9518,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "qiqi",
+              "player": "NBG Qiqi",
               "uma": "Narita Taishin",
               "style": "EC",
               "points": 3
@@ -9555,7 +9560,7 @@ const tournamentData = {
             },
             {
               "team": "Nom de l'équipe",
-              "player": "DMY Andy",
+              "player": "DMY* andy",
               "uma": "Air Groove Wedding",
               "style": "PC",
               "points": 3
@@ -9569,7 +9574,7 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "super kumar",
+              "player": "NBG SuperKumar",
               "uma": "Agnes Digital Halloween",
               "style": "EC",
               "points": 10,
@@ -9577,14 +9582,14 @@ const tournamentData = {
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "pria berkuda",
+              "player": "NBG PriaBerkuda",
               "uma": "Mejiro Palmer",
               "style": "FR",
               "points": 5
             },
             {
               "team": "NUT BUSTER GREED",
-              "player": "qiqi",
+              "player": "NBG Qiqi",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 0
@@ -9895,7 +9900,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Haru Urara New Year",
               "style": "EC",
               "points": 0
@@ -9951,7 +9956,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 3,
@@ -10030,7 +10035,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 8
@@ -10085,7 +10090,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoBOLT",
-              "player": "CB - Nirwana",
+              "player": "CB - NIRUWANA",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 0,
@@ -10164,7 +10169,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Isana",
+              "player": "CB - isana",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 8
@@ -10235,7 +10240,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Isana",
+              "player": "CB - isana",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 10
@@ -10320,14 +10325,14 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Arudomaru BS",
+              "player": "Arudomaru(BS)",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 0
             },
             {
               "team": "BLACKSOUL",
-              "player": "I'm not a robot",
+              "player": "i'm not a robot",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 0
@@ -10342,7 +10347,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "KING : Gwenn.",
+              "player": "KING : Gween",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 1
@@ -10356,7 +10361,7 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | ARLINI#2",
+              "player": "KATSU | Arlini#2",
               "uma": "Curren Chan Wedding",
               "style": "PC",
               "points": 10,
@@ -10364,14 +10369,14 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | NESS",
+              "player": "KATSU | Ness",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 8
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | REY1",
+              "player": "KATSU | Rey1",
               "uma": "Seeking the Pearl",
               "style": "LS",
               "points": 5
@@ -10391,14 +10396,14 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Arudomaru BS",
+              "player": "Arudomaru(BS)",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 10
             },
             {
               "team": "BLACKSOUL",
-              "player": "I'm not a robot",
+              "player": "i'm not a robot",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 0
@@ -10413,7 +10418,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "KING : Gwenn.",
+              "player": "KING : Gween",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 12
@@ -10435,14 +10440,14 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | FRANNAR",
+              "player": "KATSU | Frannar",
               "uma": "Mayano Top Gun",
               "style": "LS",
               "points": 0
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | NESS",
+              "player": "KATSU | Ness",
               "uma": "Curren Chan Wedding",
               "style": "PC",
               "points": 8
@@ -10462,14 +10467,14 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Arudomaru BS",
+              "player": "Arudomaru(BS)",
               "uma": "Special Week",
               "style": "PC",
               "points": 3
             },
             {
               "team": "BLACKSOUL",
-              "player": "I'm not a robot",
+              "player": "i'm not a robot",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 8
@@ -11023,14 +11028,14 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Slayerz",
+              "player": "LoL - SlayerZ ○",
               "uma": "Smart Falcon OG",
               "style": "FR",
               "points": 5
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - JoSeph",
+              "player": "LoL - JoSeph ○",
               "uma": "T.M. Opera O",
               "style": "PC",
               "points": 0
@@ -11086,7 +11091,7 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Joseph",
+              "player": "LoL - JoSeph ○",
               "uma": "Silence Suzuka",
               "style": "FR",
               "points": 10,
@@ -11094,7 +11099,7 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Ryu Akashi",
+              "player": "LoL - Ryu Akashi ○",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 5
@@ -11157,7 +11162,7 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - NAMELES",
+              "player": "LoL - Nameles ○",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 5,
@@ -11172,7 +11177,7 @@ const tournamentData = {
             },
             {
               "team": "Liar on Liar : Black",
-              "player": "LoL - Ryu Akashi",
+              "player": "LoL - Ryu Akashi ○",
               "uma": "Fine Motion Wedding",
               "style": "PC",
               "points": 0
@@ -11264,7 +11269,7 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S’Vexa",
+              "player": "S'Vexa",
               "uma": "Curren Chan",
               "style": "PC",
               "points": 1,
@@ -11272,14 +11277,14 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'aikonFRAG",
+              "player": "S'Aikonfrag",
               "uma": "Air Groove",
               "style": "PC",
               "points": 0
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'USUMBOKDARMI",
+              "player": "S’USUMBOKDARMI",
               "uma": "Fuji Kiseki",
               "style": "PC",
               "points": 5
@@ -11343,14 +11348,14 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S’Vexa",
+              "player": "S'Vexa",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 3
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'USUMBOKDARMI",
+              "player": "S’USUMBOKDARMI",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 12
@@ -11414,14 +11419,14 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S’Vexa",
+              "player": "S'Vexa",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 10
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'USUMBOKDARMI",
+              "player": "S’USUMBOKDARMI",
               "uma": "Fuji Kiseki",
               "style": "FR",
               "points": 5
@@ -11447,7 +11452,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Deextra",
+              "player": "[EVR] Deextra",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 12,
@@ -11455,14 +11460,14 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Riel",
+              "player": "[EVR] Riel",
               "uma": "Oguri Cap",
               "style": "PC",
               "points": 0
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Zodiackey",
+              "player": "[EVR] Zodiackey",
               "uma": "Agnes Digital",
               "style": "LS",
               "points": 0
@@ -11477,7 +11482,7 @@ const tournamentData = {
             },
             {
               "team": "CastoGOLF",
-              "player": "GOLF | MSal",
+              "player": "GOLF | Msal",
               "uma": "Tamamo Cross",
               "style": "PC",
               "points": 5
@@ -11491,7 +11496,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "Mas b",
+              "player": "[RE] Mas B",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 10,
@@ -11506,7 +11511,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "Pacarnya kaela",
+              "player": "Pacarnya Kaela",
               "uma": "Gold Ship",
               "style": "EC",
               "points": 3
@@ -11518,7 +11523,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Deextra",
+              "player": "[EVR] Deextra",
               "uma": "Summer Maruzensky",
               "style": "FR",
               "points": 1,
@@ -11526,14 +11531,14 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Lio",
+              "player": "[EVR] Lio",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 5
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Riel",
+              "player": "[EVR] Riel",
               "uma": "Oguri Cap Christmas",
               "style": "LS",
               "points": 10
@@ -11562,7 +11567,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "Mas b",
+              "player": "[RE] Mas B",
               "uma": "Silence Suzuka",
               "style": "FR",
               "points": 8,
@@ -11589,7 +11594,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Nads",
+              "player": "[EVR] Nads",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 8,
@@ -11597,21 +11602,21 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Lio",
+              "player": "[EVR] Lio",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 10
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Zodiackey",
+              "player": "[EVR] Zodiackey",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 3
             },
             {
               "team": "CastoGOLF",
-              "player": "GOLF | MSal",
+              "player": "GOLF | Msal",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 0,
@@ -11633,7 +11638,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "Mas b",
+              "player": "[RE] Mas B",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 12,
@@ -11648,7 +11653,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "Pacarnya kaela",
+              "player": "Pacarnya Kaela",
               "uma": "Narita Taishin",
               "style": "EC",
               "points": 0
@@ -11689,14 +11694,14 @@ const tournamentData = {
             },
             {
               "team": "ONE FOR TRIUMP",
-              "player": "OFT-arshin",
+              "player": "OFT - arshin",
               "uma": "Admire Vega",
               "style": "EC",
               "points": 1
             },
             {
               "team": "ILMU HITAM",
-              "player": "[FW]LeCondoPasa",
+              "player": "[FW] LeCondoPasa",
               "uma": "Oguri Cap Christmas",
               "style": "EC",
               "points": 0,
@@ -11718,7 +11723,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Yukiii",
+              "player": "Queen : Yukiii",
               "uma": "Mejiro Dober",
               "style": "LS",
               "points": 3,
@@ -11726,14 +11731,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Shirouma",
+              "player": "Queen : Shirouma",
               "uma": "Special Week",
               "style": "EC",
               "points": 12
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 8
@@ -11753,7 +11758,7 @@ const tournamentData = {
             },
             {
               "team": "ONE FOR TRIUMP",
-              "player": "OFT-UltraFran",
+              "player": "OFT-Ultra Fran",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0
@@ -11767,7 +11772,7 @@ const tournamentData = {
             },
             {
               "team": "ILMU HITAM",
-              "player": "／FW／ SonHoreg",
+              "player": "/FW/ SonHoreg",
               "uma": "Agnes Digital",
               "style": "LS",
               "points": 0,
@@ -11789,7 +11794,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 5,
@@ -11797,14 +11802,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Ochi",
+              "player": "Queen : Ochi",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 12
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 10
@@ -11824,7 +11829,7 @@ const tournamentData = {
             },
             {
               "team": "ONE FOR TRIUMP",
-              "player": "OFT-arshin",
+              "player": "OFT - arshin",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0
@@ -11838,7 +11843,7 @@ const tournamentData = {
             },
             {
               "team": "ILMU HITAM",
-              "player": "／FW／ SonHoreg",
+              "player": "/FW/ SonHoreg",
               "uma": "Oguri Cap",
               "style": "PC",
               "points": 0,
@@ -11860,7 +11865,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Yukiii",
+              "player": "Queen : Yukiii",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0,
@@ -11868,14 +11873,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "Haru Urara New Year",
               "style": "EC",
               "points": 3
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 10
@@ -11901,7 +11906,7 @@ const tournamentData = {
           "results": [
             {
               "team": "YADA YADA MASTER",
-              "player": "Symboli ev",
+              "player": "Symboli Ev",
               "uma": "Sweep Tosho",
               "style": "EC",
               "points": 1,
@@ -11916,7 +11921,7 @@ const tournamentData = {
             },
             {
               "team": "YADA YADA MASTER",
-              "player": "Kali",
+              "player": "K A L I",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 5
@@ -11972,7 +11977,7 @@ const tournamentData = {
           "results": [
             {
               "team": "YADA YADA MASTER",
-              "player": "Symboli ev",
+              "player": "Symboli Ev",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 8,
@@ -11987,7 +11992,7 @@ const tournamentData = {
             },
             {
               "team": "YADA YADA MASTER",
-              "player": "Kali",
+              "player": "K A L I",
               "uma": "Gold Ship",
               "style": "EC",
               "points": 12
@@ -12043,7 +12048,7 @@ const tournamentData = {
           "results": [
             {
               "team": "YADA YADA MASTER",
-              "player": "Symboli ev",
+              "player": "Symboli Ev",
               "uma": "Sweep Tosho",
               "style": "EC",
               "points": 8,
@@ -12058,7 +12063,7 @@ const tournamentData = {
             },
             {
               "team": "YADA YADA MASTER",
-              "player": "Kali",
+              "player": "K A L I",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 1
@@ -12375,7 +12380,7 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | FRANNAR",
+              "player": "KATSU | Frannar",
               "uma": "Manhattan Cafe",
               "style": "LS",
               "points": 0,
@@ -12390,7 +12395,7 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | ARLINI#2",
+              "player": "KATSU | Arlini#2",
               "uma": "Special Week",
               "style": "PC",
               "points": 0
@@ -12461,7 +12466,7 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | FRANNAR",
+              "player": "KATSU | Frannar",
               "uma": "Mejiro Dober",
               "style": "LS",
               "points": 1
@@ -12525,7 +12530,7 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | ARLINI#2",
+              "player": "KATSU | Arlini#2",
               "uma": "Zenno Rob Roy",
               "style": "PC",
               "points": 8
@@ -13483,7 +13488,7 @@ const tournamentData = {
           "results": [
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Shirouma",
+              "player": "Queen : Shirouma",
               "uma": "Special Week",
               "style": "LS",
               "points": 0,
@@ -13491,7 +13496,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "King Halo Cheerleader",
               "style": "EC",
               "points": 5,
@@ -13499,7 +13504,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 3,
@@ -13560,7 +13565,7 @@ const tournamentData = {
           "results": [
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Shirouma",
+              "player": "Queen : Shirouma",
               "uma": "Special Week",
               "style": "PC",
               "points": 3,
@@ -13568,7 +13573,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "Mejiro Dober",
               "style": "LS",
               "points": 5,
@@ -13576,7 +13581,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Oguri Cap Christmas",
               "style": "EC",
               "points": 0,
@@ -13637,7 +13642,7 @@ const tournamentData = {
           "results": [
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Ochi",
+              "player": "Queen : Ochi",
               "uma": "Maruzensky Summer",
               "style": "FR",
               "points": 0,
@@ -13645,7 +13650,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "Haru Urara New Year",
               "style": "EC",
               "points": 10,
@@ -13653,7 +13658,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 0,
@@ -13669,7 +13674,7 @@ const tournamentData = {
             },
             {
               "team": "Nom de l'équipe",
-              "player": "DMY andy",
+              "player": "DMY* andy",
               "uma": "Wonder Acute",
               "style": "PC",
               "points": 8,
@@ -13752,7 +13757,7 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "Lio",
+              "player": "[EVR] Lio",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 5,
@@ -13768,7 +13773,7 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "Riel",
+              "player": "[EVR] Riel",
               "uma": "Oguri Cap Christmas",
               "style": "LS",
               "points": 1,
@@ -13829,7 +13834,7 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "Nads",
+              "player": "[EVR] Nads",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 1,
@@ -13837,7 +13842,7 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "Lio",
+              "player": "[EVR] Lio",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 8,
@@ -13845,7 +13850,7 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "Riel",
+              "player": "[EVR] Riel",
               "uma": "Oguri Cap Christmas",
               "style": "LS",
               "points": 3,
@@ -13906,7 +13911,7 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "Deextra",
+              "player": "[EVR] Deextra",
               "uma": "Mihono Bourbon",
               "style": "FR",
               "points": 12,
@@ -13922,7 +13927,7 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "Riel",
+              "player": "[EVR] Riel",
               "uma": "Mejiro Dober",
               "style": "PC",
               "points": 8,
@@ -13973,7 +13978,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoBOLT",
-              "player": "CB - Isana",
+              "player": "CB - isana",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 1,
@@ -14021,7 +14026,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Golcheeks",
+              "player": "[PTP] Golcheeks",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 3,
@@ -14029,7 +14034,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Naysuor",
+              "player": "[PTP] naysuor",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0,
@@ -14037,7 +14042,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Satirya",
+              "player": "[PTP] Satria",
               "uma": "Air Groove Wedding",
               "style": "PC",
               "points": 8,
@@ -14058,7 +14063,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - NIRWANA",
+              "player": "CB - NIRUWANA",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 1,
@@ -14098,7 +14103,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Golcheeks",
+              "player": "[PTP] Golcheeks",
               "uma": "Inari One",
               "style": "EC",
               "points": 3,
@@ -14106,7 +14111,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Aldnova",
+              "player": "[PTP] Aldnova",
               "uma": "Mejiro Dober",
               "style": "LS",
               "points": 5,
@@ -14114,7 +14119,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Satirya",
+              "player": "[PTP] Satria",
               "uma": "Maruzensky Summer",
               "style": "FR",
               "points": 12,
@@ -14175,7 +14180,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Golcheeks",
+              "player": "[PTP] Golcheeks",
               "uma": "Inari One",
               "style": "EC",
               "points": 0,
@@ -14183,7 +14188,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Aldnova",
+              "player": "[PTP] Aldnova",
               "uma": "Copano Rickey",
               "style": "PC",
               "points": 3,
@@ -14191,7 +14196,7 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Satirya",
+              "player": "[PTP] Satria",
               "uma": "Smart Falcon",
               "style": "FR",
               "points": 0,
@@ -14495,7 +14500,7 @@ const tournamentData = {
             },
             {
               "team": "SUDDEN ACE",
-              "player": "qizdi",
+              "player": "Qizdi",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 3,
@@ -14511,7 +14516,7 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Dasty (BS)",
+              "player": "Dasty BS",
               "uma": "Special Week Commander",
               "style": "LS",
               "points": 0,
@@ -14527,7 +14532,7 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Elizen (BS)",
+              "player": "Elizen(BS)",
               "uma": "Smart Falcon",
               "style": "FR",
               "points": 1,
@@ -14588,7 +14593,7 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Dasty (BS)",
+              "player": "Dasty BS",
               "uma": "Oguri Cap Christmas",
               "style": "EC",
               "points": 3,
@@ -14604,7 +14609,7 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Elizen (BS)",
+              "player": "Elizen(BS)",
               "uma": "Smart Falcon",
               "style": "FR",
               "points": 10,
@@ -14665,7 +14670,7 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Dasty (BS)",
+              "player": "Dasty BS",
               "uma": "Nice Nature Cheerleader",
               "style": "LS",
               "points": 5,
@@ -14681,7 +14686,7 @@ const tournamentData = {
             },
             {
               "team": "BLACKSOUL",
-              "player": "Eizen (BS)",
+              "player": "Elizen(BS)",
               "uma": "Kitasan Black",
               "style": "FR",
               "points": 0,
@@ -14724,7 +14729,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 0,
@@ -14732,7 +14737,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "[RE ]Mas b",
+              "player": "[RE] Mas B",
               "uma": "Summer Maruzensky",
               "style": "FR",
               "points": 10,
@@ -14740,7 +14745,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "Pacarnya kaela",
+              "player": "Pacarnya Kaela",
               "uma": "Copano Rickey",
               "style": "PC",
               "points": 12,
@@ -14793,7 +14798,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 5,
@@ -14809,7 +14814,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "[RE] Mas b",
+              "player": "[RE] Mas B",
               "uma": "Bourbon Valentine",
               "style": "FR",
               "points": 0,
@@ -14878,7 +14883,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 8,
@@ -14886,7 +14891,7 @@ const tournamentData = {
             },
             {
               "team": "Redshift.GG",
-              "player": "[RE] Mas b",
+              "player": "[RE] Mas B",
               "uma": "Bourbon Valentine",
               "style": "FR",
               "points": 10,
@@ -15012,7 +15017,7 @@ const tournamentData = {
             },
             {
               "team": "UMA2TAK",
-              "player": "wiL2K",
+              "player": "wiL2k",
               "uma": "Bamboo Memory",
               "style": "LS",
               "points": 0
@@ -15180,7 +15185,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Deextra",
+              "player": "[EVR] Deextra",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 0,
@@ -15188,14 +15193,14 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Lio",
+              "player": "[EVR] Lio",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 0
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Zodiackey",
+              "player": "[EVR] Zodiackey",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 10
@@ -15224,7 +15229,7 @@ const tournamentData = {
             },
             {
               "team": "Nom de l'équipe",
-              "player": "DMY Andy",
+              "player": "DMY* andy",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 3,
@@ -15251,21 +15256,21 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Lio",
+              "player": "[EVR] Lio",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 8
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Nads",
+              "player": "[EVR] Nads",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 0
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Riel",
+              "player": "[EVR] Riel",
               "uma": "Vodka Christmas",
               "style": "LS",
               "points": 0
@@ -15320,7 +15325,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Deextra",
+              "player": "[EVR] Deextra",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 8,
@@ -15328,14 +15333,14 @@ const tournamentData = {
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Zodiackey",
+              "player": "[EVR] Zodiackey",
               "uma": "T.M Opera O New Year",
               "style": "LS",
               "points": 5
             },
             {
               "team": "ETERNA VICTOIRE",
-              "player": "EVR Riel",
+              "player": "[EVR] Riel",
               "uma": "Tamamo Cross",
               "style": "EC",
               "points": 12
@@ -15405,7 +15410,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoBOLT",
-              "player": "CB - Nirwana",
+              "player": "CB - NIRUWANA",
               "uma": "Oguri Cap",
               "style": "PC",
               "points": 8,
@@ -15420,7 +15425,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Isana",
+              "player": "CB - isana",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 1
@@ -15491,7 +15496,7 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Bakushin O",
+              "player": "CB - BAKUSHIN O",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 12
@@ -15555,14 +15560,14 @@ const tournamentData = {
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Nirwana",
+              "player": "CB - NIRUWANA",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 1
             },
             {
               "team": "CastoBOLT",
-              "player": "CB - Bakushin O",
+              "player": "CB - BAKUSHIN O",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 8
@@ -15661,7 +15666,7 @@ const tournamentData = {
             },
             {
               "team": "Kentucky Crispy",
-              "player": "KC Zaijun Std",
+              "player": "KC Zaijunstd",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 10
@@ -15917,7 +15922,7 @@ const tournamentData = {
             },
             {
               "team": "SUDDEN ACE",
-              "player": "qizdi",
+              "player": "Qizdi",
               "uma": "Wonder Acute",
               "style": "PC",
               "points": 8
@@ -15988,7 +15993,7 @@ const tournamentData = {
             },
             {
               "team": "SUDDEN ACE",
-              "player": "qizdi",
+              "player": "Qizdi",
               "uma": "Inari One",
               "style": "EC",
               "points": 0
@@ -16129,21 +16134,21 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | ARLINI#2",
+              "player": "KATSU | Arlini#2",
               "uma": "Silence Suzuka",
               "style": "FR",
               "points": 0
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | NESS",
+              "player": "KATSU | Ness",
               "uma": "Fine Motion Wedding",
               "style": "PC",
               "points": 0
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | FRANNAR",
+              "player": "KATSU | Frannar",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 8
@@ -16270,7 +16275,7 @@ const tournamentData = {
             },
             {
               "team": "KARANG TARUNA SARKU",
-              "player": "KATSU | ARLINI#2",
+              "player": "KATSU | Arlini#2",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 10,
@@ -16311,7 +16316,7 @@ const tournamentData = {
           "results": [
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Golcheeks",
+              "player": "[PTP] Golcheeks",
               "uma": "Inari One Festival",
               "style": "EC",
               "points": 8,
@@ -16319,14 +16324,14 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Naysuor",
+              "player": "[PTP] naysuor",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 0
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Satirya",
+              "player": "[PTP] Satria",
               "uma": "King Halo Cheerleader",
               "style": "LS",
               "points": 3
@@ -16363,7 +16368,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 12
@@ -16382,7 +16387,7 @@ const tournamentData = {
           "results": [
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Golcheeks",
+              "player": "[PTP] Golcheeks",
               "uma": "Goldship",
               "style": "EC",
               "points": 0,
@@ -16390,14 +16395,14 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Aldnova",
+              "player": "[PTP] Aldnova",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 0
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Satirya",
+              "player": "[PTP] Satria",
               "uma": "Oguri Cap Christmas",
               "style": "LS",
               "points": 3
@@ -16441,7 +16446,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 12
@@ -16453,7 +16458,7 @@ const tournamentData = {
           "results": [
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Golcheeks",
+              "player": "[PTP] Golcheeks",
               "uma": "Inari One Festival",
               "style": "EC",
               "points": 3,
@@ -16461,14 +16466,14 @@ const tournamentData = {
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Naysuor",
+              "player": "[PTP] naysuor",
               "uma": "Nishino Flower",
               "style": "PC",
               "points": 0
             },
             {
               "team": "PARA TRAINER PEMALAS",
-              "player": "PTP Satirya",
+              "player": "[PTP] Satria",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 10
@@ -16497,7 +16502,7 @@ const tournamentData = {
             },
             {
               "team": "LANE LEGERDEMAIN",
-              "player": "[LGD] Pentol K.F",
+              "player": "[LGD] Pentol. KF",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 5,
@@ -16538,7 +16543,7 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoGOLF",
-              "player": "GOLF | MSal",
+              "player": "GOLF | Msal",
               "uma": "Mejiro Dober Camping",
               "style": "LS",
               "points": 3,
@@ -16560,21 +16565,21 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Yukiii",
+              "player": "Queen : Yukiii",
               "uma": "Mejiro Dober",
               "style": "LS",
               "points": 1
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Shirouma",
+              "player": "Queen : Shirouma",
               "uma": "Special Week",
               "style": "PC",
               "points": 0
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Fine Motion Wedding",
               "style": "PC",
               "points": 0
@@ -16607,14 +16612,14 @@ const tournamentData = {
           "results": [
             {
               "team": "CastoGOLF",
-              "player": "GOLF | MSal",
+              "player": "GOLF | Msal",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 0
             },
             {
               "team": "CastoGOLF",
-              "player": "GOLF | lucas",
+              "player": "GOLF | Lucas",
               "uma": "Smart Falcon Grand Concert",
               "style": "FR",
               "points": 8
@@ -16628,7 +16633,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Ochi",
+              "player": "Queen : Ochi",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0,
@@ -16636,21 +16641,21 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "Maruzensky Summer",
               "style": "FR",
               "points": 3
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Kei",
+              "player": "Queen : Kei",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 1
             },
             {
               "team": "FOLLOW THE LEADER",
-              "player": "[ECL] Irving05",
+              "player": "[ECL] irving05",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 10
@@ -16697,7 +16702,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Urara",
+              "player": "Queen : Urara",
               "uma": "Agnes Digital",
               "style": "EC",
               "points": 0,
@@ -16705,21 +16710,21 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Shirouma",
+              "player": "Queen : Shirouma",
               "uma": "Special Week",
               "style": "LS",
               "points": 8
             },
             {
               "team": "HACHIMI QUEEN",
-              "player": "Queen: Yukiii",
+              "player": "Queen : Yukiii",
               "uma": "Fine Motion Wedding",
               "style": "PC",
               "points": 0
             },
             {
               "team": "FOLLOW THE LEADER",
-              "player": "[ECL] Irving05",
+              "player": "[ECL] irving05",
               "uma": "Maruzensky",
               "style": "FR",
               "points": 12
@@ -16759,7 +16764,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ONE FOR TRIUMP",
-              "player": "OFT-UltraFran",
+              "player": "OFT-Ultra Fran",
               "uma": "Fuji Kiseki",
               "style": "PC",
               "points": 0
@@ -16773,7 +16778,7 @@ const tournamentData = {
             },
             {
               "team": "ONE FOR TRIUMP",
-              "player": "OFT-arshin",
+              "player": "OFT - arshin",
               "uma": "Aston Macchan",
               "style": "FR",
               "points": 5
@@ -16809,14 +16814,14 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'USUMBOKDARMI",
+              "player": "S’USUMBOKDARMI",
               "uma": "Fuji Kiseki",
               "style": "PC",
               "points": 0
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'Prince Sunda",
+              "player": "S’Prince Sunda",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 12
@@ -16836,7 +16841,7 @@ const tournamentData = {
             },
             {
               "team": "ONE FOR TRIUMP",
-              "player": "OFT-UltraFran",
+              "player": "OFT-Ultra Fran",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0
@@ -16879,7 +16884,7 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'USUMBOKDARMI",
+              "player": "S’USUMBOKDARMI",
               "uma": "Fuji Kiseki",
               "style": "FR",
               "points": 8
@@ -16913,7 +16918,7 @@ const tournamentData = {
             },
             {
               "team": "ONE FOR TRIUMP",
-              "player": "OFT-arshin",
+              "player": "OFT - arshin",
               "uma": "Haru Urara New Year",
               "style": "LS",
               "points": 0
@@ -16949,7 +16954,7 @@ const tournamentData = {
             },
             {
               "team": "UNORTHODOX",
-              "player": "S'Prince Sunda",
+              "player": "S’Prince Sunda",
               "uma": "Falcon",
               "style": "FR",
               "points": 5
@@ -16982,7 +16987,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ABYSS",
-              "player": "[ABYS] Arshmelia",
+              "player": "[ABYS] ARSHMELIA",
               "uma": "Maruzensky Summer",
               "style": "FR",
               "points": 8,
@@ -17053,7 +17058,7 @@ const tournamentData = {
           "results": [
             {
               "team": "ABYSS",
-              "player": "[ABYS] Arshmelia",
+              "player": "[ABYS] ARSHMELIA",
               "uma": "Maruzensky Summer",
               "style": "FR",
               "points": 0,
@@ -17090,7 +17095,7 @@ const tournamentData = {
             },
             {
               "team": "DAYBREAK",
-              "player": "PineFine",
+              "player": "Pine Fine",
               "uma": "Fine Motion Wedding",
               "style": "PC",
               "points": 10
@@ -17154,7 +17159,7 @@ const tournamentData = {
             },
             {
               "team": "DAYBREAK",
-              "player": "PineFine",
+              "player": "Pine Fine",
               "uma": "Aston Machan",
               "style": "FR",
               "points": 1
@@ -17660,7 +17665,7 @@ const tournamentData = {
           "results": [
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Kagenou",
+              "player": "H2H Kagenou",
               "uma": "Grass Wonder",
               "style": "LS",
               "points": 0,
@@ -17668,21 +17673,21 @@ const tournamentData = {
             },
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Topsy",
+              "player": "H2H Topsy",
               "uma": "Taiki Shuttle",
               "style": "PC",
               "points": 3
             },
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Novable",
+              "player": "H2H Novable",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 8
             },
             {
               "team": "ILMU HITAM",
-              "player": "[FW] Destiny",
+              "player": "?FW? Destiny",
               "uma": "Seiun Sky",
               "style": "FR",
               "points": 1,
@@ -17690,7 +17695,7 @@ const tournamentData = {
             },
             {
               "team": "ILMU HITAM",
-              "player": "[FW] SonHoreg",
+              "player": "/FW/ SonHoreg",
               "uma": "Vodka",
               "style": "LS",
               "points": 5
@@ -17731,7 +17736,7 @@ const tournamentData = {
           "results": [
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Novable",
+              "player": "H2H Novable",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 3,
@@ -17739,21 +17744,21 @@ const tournamentData = {
             },
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Kagenou",
+              "player": "H2H Kagenou",
               "uma": "Vodka Christmas",
               "style": "LS",
               "points": 5
             },
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Toa",
+              "player": "H2H Toa",
               "uma": "Mejiro Ardan",
               "style": "PC",
               "points": 12
             },
             {
               "team": "ILMU HITAM",
-              "player": "[FW] Mayo Nice",
+              "player": "!FW! Mayo Nice",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 10,
@@ -17761,7 +17766,7 @@ const tournamentData = {
             },
             {
               "team": "ILMU HITAM",
-              "player": "[FW] Destiny",
+              "player": "?FW? Destiny",
               "uma": "Yukino Bijin",
               "style": "PC",
               "points": 0
@@ -17802,7 +17807,7 @@ const tournamentData = {
           "results": [
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Wazuu",
+              "player": "H2H Wazuu",
               "uma": "Tamamo Cross",
               "style": "EC",
               "points": 12,
@@ -17810,21 +17815,21 @@ const tournamentData = {
             },
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Toa",
+              "player": "H2H Toa",
               "uma": "Rice Shower Halloween",
               "style": "PC",
               "points": 0
             },
             {
               "team": "HEARTS2HEARTS",
-              "player": "[H2H] Alyaa",
+              "player": "H2H Alyaa",
               "uma": "TM Opera O New Year",
               "style": "LS",
               "points": 0
             },
             {
               "team": "ILMU HITAM",
-              "player": "[FW] Mayo Nice",
+              "player": "!FW! Mayo Nice",
               "uma": "Kitasan Black",
               "style": "FR",
               "points": 5,
@@ -17839,7 +17844,7 @@ const tournamentData = {
             },
             {
               "team": "ILMU HITAM",
-              "player": "[FW] SonHoreg",
+              "player": "/FW/ SonHoreg",
               "uma": "Mayano Top Gun",
               "style": "EC",
               "points": 1
@@ -17931,7 +17936,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] EL PINTU",
+              "player": "KING : EL PINTU",
               "uma": "Oguri Cap",
               "style": "LS",
               "points": 0,
@@ -17939,14 +17944,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] RedHood",
+              "player": "KING : RedHood",
               "uma": "Taiki Shuttle Camping",
               "style": "PC",
               "points": 3
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] KARBIT",
+              "player": "KING : KARBIT",
               "uma": "Mihono Bourbon Valentine",
               "style": "FR",
               "points": 8
@@ -18002,7 +18007,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] KARBIT",
+              "player": "KING : KARBIT",
               "uma": "Daiwa Scarlet",
               "style": "FR",
               "points": 10,
@@ -18010,14 +18015,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] EL PINTU",
+              "player": "KING : EL PINTU",
               "uma": "Oguri Cap Christmas",
               "style": "PC",
               "points": 5
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] RedHood",
+              "player": "KING : RedHood",
               "uma": "Vodka Christmas",
               "style": "LS",
               "points": 1
@@ -18073,7 +18078,7 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] KARBIT",
+              "player": "KING : KARBIT",
               "uma": "Silent Suzuka",
               "style": "FR",
               "points": 5,
@@ -18081,14 +18086,14 @@ const tournamentData = {
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] Hachiman",
+              "player": "KING : Hachiman",
               "uma": "Goldship",
               "style": "EC",
               "points": 1
             },
             {
               "team": "HACHIMI KING",
-              "player": "[KING] RedHood",
+              "player": "KING : RedHood",
               "uma": "Vodka Christmas",
               "style": "LS",
               "points": 0
@@ -18323,6 +18328,3385 @@ const tournamentData = {
           ]
         }
       ]
+    },
+    {
+      "id": "SW3-G1",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 1,
+      "round": "Group 1",
+      "teams": [
+        "BLACKSOUL",
+        "MIRACLE",
+        "ECLAIRS: LARP"
+      ],
+      "races": [
+        {
+          "map": "Sapporo - 2000M",
+          "results": [
+            {
+              "team": "BLACKSOUL",
+              "player": "Dasty BS",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "BLACKSOUL",
+              "player": "Elizen(BS)",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "BLACKSOUL",
+              "player": "Arudomaru(BS)",
+              "uma": "Mejiro Ardan",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Hiza",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Vaudevile",
+              "uma": "Fuji Kiseki",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Raye",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] Reizee",
+              "uma": "Special Week",
+              "style": "PC",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] AH0K",
+              "uma": "Nice Nature cheerleader",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] Maqua",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 2200M",
+          "results": [
+            {
+              "team": "BLACKSOUL",
+              "player": "Dasty BS",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "BLACKSOUL",
+              "player": "Ryeon BS",
+              "uma": "Yukino Bijin",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "BLACKSOUL",
+              "player": "Elizen(BS)",
+              "uma": "Daiwa Scarlet Christmas",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Hiza",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Vaudevile",
+              "uma": "Fuji Kiseki",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Raye",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] Maqua",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] Reizee",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] Qiqi",
+              "uma": "Daiwa Scarlet",
+              "style": "PC",
+              "points": 3
+            }
+          ]
+        },
+        {
+          "map": "Tokyo - 2500M",
+          "results": [
+            {
+              "team": "BLACKSOUL",
+              "player": "Dasty BS",
+              "uma": "Mejiro Bright",
+              "style": "EC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "BLACKSOUL",
+              "player": "i'm not a robot",
+              "uma": "Mejiro Palmer",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "BLACKSOUL",
+              "player": "Arudomaru(BS)",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 1
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Elzette",
+              "uma": "Vodka Christmas",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Vaudevile",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "MIRACLE",
+              "player": "「M7E」Raye",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] AH0K",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] Maqua",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "ECLAIRS: LARP",
+              "player": "[ECL] Lywnn",
+              "uma": "Narita Brian Blaze",
+              "style": "PC",
+              "points": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G2",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 2,
+      "round": "Group 2",
+      "teams": [
+        "ABYSS",
+        "LANE LEGERDEMAIN",
+        "UNORTHODOX"
+      ],
+      "races": [
+        {
+          "map": "Hanshin - 1600M",
+          "results": [
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] ARSHMELIA",
+              "uma": "Valentine Bourbon",
+              "style": "FR",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] Vel",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] YUSHA",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] YamskuY.",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] YukiO",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] Pentol. KF",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S’Prince Sunda",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S'Vexa",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S'MOCGAAA",
+              "uma": "Grass Wonder",
+              "style": "EC",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 1800M",
+          "results": [
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] ARSHMELIA",
+              "uma": "Maruzensky",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] Vel",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] Livix",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 8
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] Pentol. KF",
+              "uma": "Maruzensky",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] YamskuY.",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] Riodoyu",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S’Prince Sunda",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S'Vexa",
+              "uma": "Maruzensky",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S'MOCGAAA",
+              "uma": "Mejiro Palmer",
+              "style": "FR",
+              "points": 12
+            }
+          ]
+        },
+        {
+          "map": "Sapporo - 1700M (Dirt)",
+          "results": [
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] Vel",
+              "uma": "Hokko Tarumae",
+              "style": "PC",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] Livix",
+              "uma": "Oguri Cap Christmas",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "ABYSS",
+              "player": "[ABYS] YUSHA",
+              "uma": "Agnes Digital",
+              "style": "EC",
+              "points": 1
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] Pentol. KF",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] YukiO",
+              "uma": "Hokko Tarumae",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "LANE LEGERDEMAIN",
+              "player": "[LGD] Riodoyu",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S’Ryotaa",
+              "uma": "Mayano Top Gun Wedding",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S'Vexa",
+              "uma": "Agnes Digital",
+              "style": "EC",
+              "points": 8
+            },
+            {
+              "team": "UNORTHODOX",
+              "player": "S'MOCGAAA",
+              "uma": "Inari One Festival",
+              "style": "EC",
+              "points": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G3",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 3,
+      "round": "Group 3",
+      "teams": [
+        "CastoBOLT",
+        "SARJANA UMA: LK",
+        "FOLLOW THE LEADER"
+      ],
+      "races": [
+        {
+          "map": "Tokyo - 2500M",
+          "results": [
+            {
+              "team": "CastoBOLT",
+              "player": "CB | Nebula",
+              "uma": "Narita Brian Blaze",
+              "style": "PC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "CastoBOLT",
+              "player": "CB - NIRUWANA",
+              "uma": "Santono Diamond New Year",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "CastoBOLT",
+              "player": "CB - BAKUSHIN O",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. Kinnkagari",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. Lems",
+              "uma": "Diamond New Year",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. KazeMoriarty",
+              "uma": "Narita Brian Blaze",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] OmoreLL",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] Atori",
+              "uma": "Mejiro Bright",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] irving05",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600M",
+          "results": [
+            {
+              "team": "CastoBOLT",
+              "player": "CB - Riandyz",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "CastoBOLT",
+              "player": "CB | Nebula",
+              "uma": "Vodka",
+              "style": "LS",
+              "points": 1
+            },
+            {
+              "team": "CastoBOLT",
+              "player": "CB - BAKUSHIN O",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. Kinnkagari",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. Lems",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. Loki",
+              "uma": "Mejiro Dobber camping",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] YonasCY",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] irving05",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] Atori",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 3000M",
+          "results": [
+            {
+              "team": "CastoBOLT",
+              "player": "CB - Riandyz",
+              "uma": "Narita Taishin",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "CastoBOLT",
+              "player": "CB - isana",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "CastoBOLT",
+              "player": "CB - BAKUSHIN O",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. RMCiX",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. Loki",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 3
+            },
+            {
+              "team": "SARJANA UMA: LK",
+              "player": "SM. Lems",
+              "uma": "Narita Brian Blaze",
+              "style": "PC",
+              "points": 8
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] irving05",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] Kurosacchi",
+              "uma": "Special Week Commander",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "FOLLOW THE LEADER",
+              "player": "[ECL] OmoreLL",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G4",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 4,
+      "round": "Group 4",
+      "teams": [
+        "ZIG ZAG RACING",
+        "GEROBAK DORONG",
+        "SEIRYUU"
+      ],
+      "races": [
+        {
+          "map": "Sapporo - 1200m",
+          "results": [
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Rely",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Acedia",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Hikari ◎",
+              "uma": "Air Groove",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. SayurKoL",
+              "uma": "Aston Machan",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. Poiiu",
+              "uma": "Bamboo Memory",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. InfiniteLoop",
+              "uma": "Curren Chan Wedding",
+              "style": "PC",
+              "points": 1
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] KimChaewon",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Arucchi",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Nanaya",
+              "uma": "Admire Vega",
+              "style": "EC",
+              "points": 5
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600m",
+          "results": [
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Qiqir",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Acedia",
+              "uma": "Yukino Bijin",
+              "style": "PC",
+              "points": 5
+            },
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Hikari ◎",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. InfiniteLoop",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. Poyy",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. SayurKoL",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Art Oppa",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Gastia",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 8
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Wonderwise",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 3000m",
+          "results": [
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Qiqir",
+              "uma": "Seiun Sky Ballroom",
+              "style": "FR",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Rely",
+              "uma": "Satono Diamond Festival",
+              "style": "LS",
+              "points": 10
+            },
+            {
+              "team": "ZIG ZAG RACING",
+              "player": "ZZR | Hikari ◎",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. InfiniteLoop",
+              "uma": "Mejiro McQueen Summer",
+              "style": "PC",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. Poyy",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "GEROBAK DORONG",
+              "player": "GD. Poiiu",
+              "uma": "Mejiro Palmer",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Arucchi",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Nanaya",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 8
+            },
+            {
+              "team": "SEIRYUU",
+              "player": "[SR] Wonderwise",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G5",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 5,
+      "round": "Group 5",
+      "teams": [
+        "KARANG TARUNA SARKU",
+        "KENTUCKY CRISPY",
+        "NUT BUSTER PRIDE"
+      ],
+      "races": [
+        {
+          "map": "Sapporo - 2000m",
+          "results": [
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU|TSURFY",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU|KIOWAYS",
+              "uma": "Mejiro Ardan",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU | Ness",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC WeHorse",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC MikaBerkuda",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC Akari",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP Cellow",
+              "uma": "Mejiro Ardan",
+              "style": "PC",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP ekzeter",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP Salvator",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 12
+            }
+          ]
+        },
+        {
+          "map": "Nakayama - 1800m (Dirt)",
+          "results": [
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU | Ness",
+              "uma": "Hokko Tarumae",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU | Chaerin",
+              "uma": "Wonder Acute",
+              "style": "PC",
+              "points": 1
+            },
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU | Arlini#2",
+              "uma": "Copano Rickey",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC Akari",
+              "uma": "Hokko Tarumae",
+              "style": "PC",
+              "points": 5
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC MikaBerkuda",
+              "uma": "Wonder Acute",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC AntiKarbit",
+              "uma": "Agnes Digital",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP ekzeter",
+              "uma": "Copano Rickey",
+              "style": "PC",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP Cellow",
+              "uma": "Agnes Digital",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP Lemonz",
+              "uma": "Haru Urara New Year",
+              "style": "EC",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 2200m",
+          "results": [
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU | Chaerin",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12
+            },
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU | Frannar",
+              "uma": "Goldship",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "KARANG TARUNA SARKU",
+              "player": "KATSU | TSURFY",
+              "uma": "Kitasan New Year",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC Akari",
+              "uma": "Agnes Tachyon",
+              "style": "PC",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC ZaijunStd",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "KENTUCKY CRISPY",
+              "player": "KC AntiKarbit",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP Cellow",
+              "uma": "Mejiro Ardan",
+              "style": "PC",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP ekzeter",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "NUT BUSTER PRIDE",
+              "player": "NBP Salvator",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G6",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 6,
+      "round": "Group 6",
+      "teams": [
+        "HEARTS2HEARTS",
+        "MENDING ROBLOX",
+        "SCUDERIA UMARRARI"
+      ],
+      "races": [
+        {
+          "map": "Kyoto - 2200m",
+          "results": [
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Kagenou",
+              "uma": "Mejiro Dober",
+              "style": "LS",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Toa",
+              "uma": "Mejiro Ardan",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Alyaa",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "[ECL] Julian",
+              "uma": "Fine Motion",
+              "style": "PC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "[ECL] Mizary",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "KJ | Diora",
+              "uma": "Admire Vega",
+              "style": "EC",
+              "points": 3
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; Hinata",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; Baginda Dio",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; Davstep",
+              "uma": "Fine Motion",
+              "style": "PC",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600m",
+          "results": [
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Alyaa",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Kagenou",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Toa",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "[ECL] Julian",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "Nightnear–",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "[ECL] Thio",
+              "uma": "Gold City Festival",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; AdefHamilton",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; Hinata",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; Baginda Dio",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 10
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 1800m",
+          "results": [
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Novable",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Toa",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "HEARTS2HEARTS",
+              "player": "H2H Wazuu",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "[ECL] Julian",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "SSRB_crenian",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 5
+            },
+            {
+              "team": "MENDING ROBLOX",
+              "player": "[ECL] Thio",
+              "uma": "Gold City Festival",
+              "style": "LS",
+              "points": 1
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; AdefHamilton",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; Hinata",
+              "uma": "Maruzensky",
+              "style": "PC",
+              "points": 8
+            },
+            {
+              "team": "SCUDERIA UMARRARI",
+              "player": "SU ; Baginda Dio",
+              "uma": "Oguri Cap Christmas",
+              "style": "LS",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G7",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 7,
+      "round": "Group 7",
+      "teams": [
+        "ANTEK ANTEK ASING",
+        "JURAGAN PASIR",
+        "HACHIMI QUEEN"
+      ],
+      "races": [
+        {
+          "map": "Nakayama - 1800m (Dirt)",
+          "results": [
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 dGator@xdd",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 Arius.",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 GR3M",
+              "uma": "Agnes Digital",
+              "style": "EC",
+              "points": 10
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Bibskuyy",
+              "uma": "Maruzensky Summer",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Vortex",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Nikaa",
+              "uma": "Agnes Digital",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Urara",
+              "uma": "Haru Urara New Year",
+              "style": "EC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Ochi",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Kei",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 5
+            }
+          ]
+        },
+        {
+          "map": "Tokyo - 2500m",
+          "results": [
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 dGator@xdd",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 3
+            },
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 Arius.",
+              "uma": "Maruzensky",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 Citrus@ix7",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Bibskuyy",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Nefer",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Nikaa",
+              "uma": "Narita Brian Blaze",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Ochi",
+              "uma": "Gold Ship",
+              "style": "EC",
+              "points": 10
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Shirouma",
+              "uma": "Inari One Festival",
+              "style": "EC",
+              "points": 5
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Yukiii",
+              "uma": "Narita Brian Blaze",
+              "style": "PC",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600m",
+          "results": [
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 dGator@xdd",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 GR3M",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 1
+            },
+            {
+              "team": "ANTEK ANTEK ASING",
+              "player": "A3 Citrus@ix7",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Nikaa",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Mic",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "JURAGAN PASIR",
+              "player": "[JP] Vortex",
+              "uma": "Narita Taishin",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Urara",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Shirouma",
+              "uma": "Special Week",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "HACHIMI QUEEN",
+              "player": "Queen : Yukiii",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G8",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 8,
+      "round": "Group 8",
+      "teams": [
+        "Nom de l'équipe",
+        "ECLAIRS : RE",
+        "ETERNA VICTOIRE"
+      ],
+      "races": [
+        {
+          "map": "Hanshin - 1600m",
+          "results": [
+            {
+              "team": "Nom de l'équipe",
+              "player": "Hazzy",
+              "uma": "Yamanin Zephyr",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "Nom de l'équipe",
+              "player": "Kazuki",
+              "uma": "Tamamo Cross",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "Nom de l'équipe",
+              "player": "HFS",
+              "uma": "Special Week",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] Aoko",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] Ikezoe",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 1
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] LckySukebe",
+              "uma": "Narita Taishin",
+              "style": "EC",
+              "points": 12
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Lio",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Zodiackey",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Deextra",
+              "uma": "Hokko Tarumae",
+              "style": "PC",
+              "points": 3
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 2200m",
+          "results": [
+            {
+              "team": "Nom de l'équipe",
+              "player": "Digiflyy",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "Nom de l'équipe",
+              "player": "DMY* andy",
+              "uma": "Mejiro Palmer",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "Nom de l'équipe",
+              "player": "Hazzy",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] Ein",
+              "uma": "Meisho Doto Halloween",
+              "style": "PC",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] LckySukebe",
+              "uma": "Oguri Cap",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] Aoko",
+              "uma": "Tosen Jordan",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Nads",
+              "uma": "Daiwa Scarlet",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Lio",
+              "uma": "Rice Shower Halloween",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Riel",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 5
+            }
+          ]
+        },
+        {
+          "map": "Tokyo - 2500m",
+          "results": [
+            {
+              "team": "Nom de l'équipe",
+              "player": "DMY* andy",
+              "uma": "Mejiro Palmer",
+              "style": "FR",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "Nom de l'équipe",
+              "player": "HFS",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "Nom de l'équipe",
+              "player": "Kazuki",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] 1qhira",
+              "uma": "Special Week",
+              "style": "PC",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] Saipulipoe",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "ECLAIRS : RE",
+              "player": "[ECL] Ikezoe",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 8
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Deextra",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Zodiackey",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "ETERNA VICTOIRE",
+              "player": "[EVR] Riel",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G9",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 9,
+      "round": "Group 9",
+      "teams": [
+        "SUDDEN ACE",
+        "ASTON MACHAN RACING",
+        "ONE FOR TRIUMP"
+      ],
+      "races": [
+        {
+          "map": "Kyoto - 1800m",
+          "results": [
+            {
+              "team": "SUDDEN ACE",
+              "player": "S'Feast",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SUDDEN ACE",
+              "player": "Smart Pavy ☆彡",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "SUDDEN ACE",
+              "player": "Qizdi",
+              "uma": "Inari One",
+              "style": "EC",
+              "points": 3
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] Lejiket",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] Hanser",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 10
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] Raydon",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT-Tyrens",
+              "uma": "Air Groove Wedding",
+              "style": "PC",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT-Ultra Fran",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT-Hafishu",
+              "uma": "Oguri Cap",
+              "style": "EC",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Tokyo - 2500m",
+          "results": [
+            {
+              "team": "SUDDEN ACE",
+              "player": "S'Feast",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SUDDEN ACE",
+              "player": "Smart Pavy ☆彡",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 3
+            },
+            {
+              "team": "SUDDEN ACE",
+              "player": "MchaelS",
+              "uma": "Satono Diamond Alter",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] Raydon",
+              "uma": "Mihono Bourbon",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] 39",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 10
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] Lejiket",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 1
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT-Hafishu",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT - arshin",
+              "uma": "Satono Diamond New Year",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT-Tyrens",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 5
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600m",
+          "results": [
+            {
+              "team": "SUDDEN ACE",
+              "player": "S'Feast",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SUDDEN ACE",
+              "player": "Qizdi",
+              "uma": "Inari One",
+              "style": "EC",
+              "points": 10
+            },
+            {
+              "team": "SUDDEN ACE",
+              "player": "MchaelS",
+              "uma": "Vodka",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] 39",
+              "uma": "Agnes Digital",
+              "style": "EC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] Lejiket",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 5
+            },
+            {
+              "team": "ASTON MACHAN RACING",
+              "player": "[AMR] Hanser",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT-Lei",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT-Tyrens",
+              "uma": "Vodka Christmas",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "ONE FOR TRIUMP",
+              "player": "OFT - arshin",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G10",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 10,
+      "round": "Group 10",
+      "teams": [
+        "YADA YADA MASTER",
+        "SARJANA UMA GK",
+        "LUCID"
+      ],
+      "races": [
+        {
+          "map": "Sapporo - 1200m",
+          "results": [
+            {
+              "team": "YADA YADA MASTER",
+              "player": "K A L I",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "YADA YADA MASTER",
+              "player": "Oxalis",
+              "uma": "Aston Machan",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "YADA YADA MASTER",
+              "player": "DutaEpTuPi",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. Gerald",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. G4byur",
+              "uma": "Aston Machan",
+              "style": "FR",
+              "points": 3
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. Kenshi",
+              "uma": "Air Groove",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] MaruFans",
+              "uma": "Aston Machan",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] Yoshiii",
+              "uma": "Curren Chan Wedding",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] NabeXCX",
+              "uma": "Seeking The Pearl",
+              "style": "LS",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "map": "Sapporo - 2000m",
+          "results": [
+            {
+              "team": "YADA YADA MASTER",
+              "player": "Oxalis",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "YADA YADA MASTER",
+              "player": "DutaEpTuPi",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "YADA YADA MASTER",
+              "player": "Symboli Ev",
+              "uma": "Agnes Tachyon",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. Kanae",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. Gremmy",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. G4byur",
+              "uma": "Special Week",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] Sweeney々乂",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] NabeXCX",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 3
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] Zect",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 1800m",
+          "results": [
+            {
+              "team": "YADA YADA MASTER",
+              "player": "Rempeyek",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "YADA YADA MASTER",
+              "player": "K A L I",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "YADA YADA MASTER",
+              "player": "Symboli Ev",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. Gremmy",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. Kanae",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 12
+            },
+            {
+              "team": "SARJANA UMA GK",
+              "player": "SM. G4byur",
+              "uma": "Fine Motion Wedding",
+              "style": "PC",
+              "points": 1
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] Yoshiii",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 3
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] MaruFans",
+              "uma": "Maruzensky Summer",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "LUCID",
+              "player": "[LC] Zect",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G11",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 11,
+      "round": "Group 11",
+      "teams": [
+        "SPICA OG",
+        "HACHIMI KING",
+        "DAYBREAK"
+      ],
+      "races": [
+        {
+          "map": "Hanshin - 2000M (DIRT)",
+          "results": [
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] Rinu",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] Araku",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] RaiseiDN",
+              "uma": "Agnes Digital Halloween",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : RedHood",
+              "uma": "Gold City Festival",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : KEJU",
+              "uma": "Mayano Top Gun Wedding",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : EL PINTU",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Pine Fine",
+              "uma": "Oguri Cap Christmas",
+              "style": "PC",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Shion",
+              "uma": "Gold City",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Hiyamano",
+              "uma": "Inari One",
+              "style": "EC",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600M",
+          "results": [
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] Jeouuu",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] RaiseiDN",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "SPICA OG",
+              "player": "-",
+              "uma": "-",
+              "style": "-",
+              "points": 0
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : KARBIT",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : RedHood",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 8
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : EL PINTU",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 1
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Pine Fine",
+              "uma": "Fine Motion",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Shion",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Hiyamano",
+              "uma": "Narita Taishin",
+              "style": "EC",
+              "points": 3
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 2200M",
+          "results": [
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] Dhilpo",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] Rinu",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "SPICA OG",
+              "player": "[SOG] RaiseiDN",
+              "uma": "Nice Nature Cheerleader",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : RedHood",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : KARBIT",
+              "uma": "Daiwa Scarlet",
+              "style": "FR",
+              "points": 3
+            },
+            {
+              "team": "HACHIMI KING",
+              "player": "KING : Hachiman",
+              "uma": "Narita Brian",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Shion",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Hiyamano",
+              "uma": "Admire Vega",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "DAYBREAK",
+              "player": "Klauss",
+              "uma": "Maruzensky Summer",
+              "style": "FR",
+              "points": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G12",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 12,
+      "round": "Group 12",
+      "teams": [
+        "LIAR ON LIAR: WHITE",
+        "NUT BUSTER GREED",
+        "PARA TRAINER PEMALAS"
+      ],
+      "races": [
+        {
+          "map": "Kyoto - 2200M",
+          "results": [
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Winter◎",
+              "uma": "Mejiro Dober",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Monos◎",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Zold◎",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 1
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG ZrecKun",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 5
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG SuperKumar",
+              "uma": "Narita Taishin Steampunk",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG Qiqi",
+              "uma": "Tamamo Cross Festival",
+              "style": "PC",
+              "points": 8
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Golcheeks",
+              "uma": "TM Opera O",
+              "style": "PC",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Satria",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Aldnova",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 3
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600M",
+          "results": [
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Caturp◎",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Winter◎",
+              "uma": "Silence Suzuka",
+              "style": "FR",
+              "points": 3
+            },
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Monos◎",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 1
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG ZrecKun",
+              "uma": "Narita Taishin",
+              "style": "EC",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG Mcreyy",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG Qiqi",
+              "uma": "Rice Shower",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Golcheeks",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Satria",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Aldnova",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 10
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 1800M",
+          "results": [
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Neozee◎",
+              "uma": "Seeking The Pearl",
+              "style": "PC",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - NingNing◎",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "LIAR ON LIAR: WHITE",
+              "player": "LoL - Monos◎",
+              "uma": "Oguri Cap Christmas",
+              "style": "LS",
+              "points": 12
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG ZrecKun",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG SuperKumar",
+              "uma": "Fine Motion Wedding",
+              "style": "PC",
+              "points": 8
+            },
+            {
+              "team": "NUT BUSTER GREED",
+              "player": "NBG Mcreyy",
+              "uma": "El Condor Pasa Fantasy",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Aldnova",
+              "uma": "Fine Motion Wedding",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] Satria",
+              "uma": "Seiun Sky",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "PARA TRAINER PEMALAS",
+              "player": "[PTP] naysuor",
+              "uma": "Vodka",
+              "style": "LS",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G13",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 13,
+      "round": "Group 13",
+      "teams": [
+        "FPO",
+        "CastoGOLF",
+        "UMAK PALEMBANG"
+      ],
+      "races": [
+        {
+          "map": "Kyoto - 1800M",
+          "results": [
+            {
+              "team": "FPO",
+              "player": "[FPO] Shion",
+              "uma": "Sweep Tosho",
+              "style": "EC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "FPO",
+              "player": "[FPO] Ahasver",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "FPO",
+              "player": "[FPO] Termoses",
+              "uma": "Mejiro Dober",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | Tidur",
+              "uma": "El Condor Pasa Fantasy",
+              "style": "LS",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | Msal",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | Lucas",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Skorvia",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Rizuki",
+              "uma": "Sakura Chiyono O",
+              "style": "PC",
+              "points": 1
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Ayane",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 5
+            }
+          ]
+        },
+        {
+          "map": "Sapporo - 1700M (DIRT)",
+          "results": [
+            {
+              "team": "FPO",
+              "player": "[FPO] Nostran",
+              "uma": "Maruzensky Summer",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "FPO",
+              "player": "[FPO] Yuki",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 10
+            },
+            {
+              "team": "FPO",
+              "player": "[FPO] Termoses",
+              "uma": "Haru Urara New Year",
+              "style": "EC",
+              "points": 1
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | Tidur",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | Caelynn",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | 500 WIT",
+              "uma": "Agnes Digital",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Ded",
+              "uma": "Smart Falcon",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Ayane",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 5
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Rizuki",
+              "uma": "Agnes Digital",
+              "style": "LS",
+              "points": 12
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 2000M (DIRT)",
+          "results": [
+            {
+              "team": "FPO",
+              "player": "[FPO] Shion",
+              "uma": "Inari One Festival",
+              "style": "EC",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "FPO",
+              "player": "[FPO] Nostran",
+              "uma": "Maruzensky Summer",
+              "style": "FR",
+              "points": 0
+            },
+            {
+              "team": "FPO",
+              "player": "[FPO] Ahasver",
+              "uma": "Agnes Digital",
+              "style": "LS",
+              "points": 1
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | Caelynn",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | Msal",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "CastoGOLF",
+              "player": "GOLF | 500 WIT",
+              "uma": "Agnes Digital",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Skorvia",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Ayane",
+              "uma": "Meisho Doto Halloween",
+              "style": "PC",
+              "points": 12
+            },
+            {
+              "team": "UMAK PALEMBANG",
+              "player": "UMAK-Rizuki",
+              "uma": "Agnes Digital",
+              "style": "LS",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G14",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 14,
+      "round": "Group 14",
+      "teams": [
+        "DOMINATOR",
+        "ILMU HITAM",
+        "EVERLASTING"
+      ],
+      "races": [
+        {
+          "map": "Sapporo - 1200M",
+          "results": [
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | Shin-Ryuu",
+              "uma": "Air Groove",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | Jaran",
+              "uma": "Aston Machan",
+              "style": "FR",
+              "points": 10
+            },
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | SOUNDWAVE",
+              "uma": "Fuji Kiseki",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "§FW§＝X＝＝＝＝＞",
+              "uma": "Curren Chan",
+              "style": "PC",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "?FW? Destiny",
+              "uma": "Aston Machan",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "/FW/ SonHoreg",
+              "uma": "King Halo",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] Regxia",
+              "uma": "Aston Machan",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] BuNym",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] takdanama",
+              "uma": "Air Groove Wedding",
+              "style": "PC",
+              "points": 12
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 2200M",
+          "results": [
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | MTDLAY",
+              "uma": "Mejiro Dober Camping",
+              "style": "LS",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | Shin-Ryuu",
+              "uma": "Mayano Top Gun wedding",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | Jaran",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "[FW] LeCondoPasa",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 1,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "?FW? Destiny",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 8
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "/FW/ SonHoreg",
+              "uma": "Fine Motion",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] Regxia",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] BuNym",
+              "uma": "Meisho Doto Halloween",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] takdanama",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 12
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600M",
+          "results": [
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | Keyy",
+              "uma": "El Condor Pasa",
+              "style": "FR",
+              "points": 3,
+              "bonusPoints": 3
+            },
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | Shin-Ryuu",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "DOMINATOR",
+              "player": "DOMI | SOUNDWAVE",
+              "uma": "Nishino Flower",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "§FW§＝X＝＝＝＝＞",
+              "uma": "Fine Motion Wedding",
+              "style": "PC",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "?FW? Destiny",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "ILMU HITAM",
+              "player": "/FW/ SonHoreg",
+              "uma": "Hishi Amazon",
+              "style": "EC",
+              "points": 10
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] Regxia",
+              "uma": "Mihouno Bourbon Valentine",
+              "style": "FR",
+              "points": 12,
+              "bonusPoints": 3
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] BuNym",
+              "uma": "Grass Wonder",
+              "style": "LS",
+              "points": 5
+            },
+            {
+              "team": "EVERLASTING",
+              "player": "[EVLT] takdanama",
+              "uma": "Oguri Cap Christmas",
+              "style": "EC",
+              "points": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SW3-G15",
+      "week": 6,
+      "phase": "Super Week",
+      "group": 15,
+      "round": "Group 15",
+      "teams": [
+        "REDSHIFT.GG",
+        "UMA2TAK",
+        "LIAR ON LIAR : BLACK"
+      ],
+      "races": [
+        {
+          "map": "Kyoto - 2200M",
+          "results": [
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] Mas B",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] RERERE",
+              "uma": "Meishio Doto Halloween",
+              "style": "PC",
+              "points": 5
+            },
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] Parisu",
+              "uma": "Mejiro Bright",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "1FFacipiii2k",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 10,
+              "bonusPoints": 3
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "Tama2k",
+              "uma": "Special Week",
+              "style": "PC",
+              "points": 3
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "Exodia2k",
+              "uma": "Nice Nature Cheerleader",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Slayerz",
+              "uma": "Mihouno Bourbon Valentine",
+              "style": "FR",
+              "points": 12
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Nameless",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Ryu Akashi",
+              "uma": "Mejiro Dober",
+              "style": "LS",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "map": "Kyoto - 1800M",
+          "results": [
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] Mas B",
+              "uma": "Mihono Bourbon Valentine",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] Parisu",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 0
+            },
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] JubJub",
+              "uma": "Mejiro Dober",
+              "style": "LS",
+              "points": 3
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "Domc2k",
+              "uma": "Mihouno Bourbon Valentine",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "Exodia2k",
+              "uma": "Taiki Shuttle",
+              "style": "PC",
+              "points": 5
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "Meidi2k",
+              "uma": "Oguri Cap",
+              "style": "LS",
+              "points": 0
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Slayerz",
+              "uma": "Maruzensky",
+              "style": "FR",
+              "points": 1
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Zeratu",
+              "uma": "Mihouno Bourbon Valentine",
+              "style": "FR",
+              "points": 12
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - JoSeph",
+              "uma": "Taiki Shuttle",
+              "style": "FR",
+              "points": 10
+            }
+          ]
+        },
+        {
+          "map": "Hanshin - 1600M",
+          "results": [
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] Mas B",
+              "uma": "Kitasan Black New Year",
+              "style": "FR",
+              "points": 5,
+              "bonusPoints": 3
+            },
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] RERERE",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 10
+            },
+            {
+              "team": "REDSHIFT.GG",
+              "player": "[RE] JubJub",
+              "uma": "Seeking The Pearl",
+              "style": "EC",
+              "points": 3
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "1FFacipiii2k",
+              "uma": "Mihouno Bourbon Valentine",
+              "style": "FR",
+              "points": 0,
+              "bonusPoints": 3
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "wiL2k",
+              "uma": "Mejiro Ryan",
+              "style": "LS",
+              "points": 1
+            },
+            {
+              "team": "UMA2TAK",
+              "player": "Tama2k",
+              "uma": "Inari One Festival",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Joseph",
+              "uma": "Mihouno Bourbon Valentine",
+              "style": "FR",
+              "points": 8,
+              "bonusPoints": 3
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Hikarey",
+              "uma": "King Halo Cheerleader",
+              "style": "EC",
+              "points": 0
+            },
+            {
+              "team": "LIAR ON LIAR : BLACK",
+              "player": "LoL - Nameless",
+              "uma": "Taiki Shuttle Camping",
+              "style": "PC",
+              "points": 12
+            }
+          ]
+        }
+      ]
     }
   ],
   "umas": [
@@ -18360,67 +21744,5 @@ const tournamentData = {
   "surfaceWinRate": [
     52,
     47
-  ],
-  "bracket": [
-    {
-      "id": 1,
-      "round": "Upper Round 1",
-      "players": [
-        "Player Alpha",
-        "Player Bravo",
-        "Player Charlie"
-      ],
-      "winner": "Player Alpha"
-    },
-    {
-      "id": 2,
-      "round": "Upper Round 1",
-      "players": [
-        "Player Delta",
-        "Player Echo",
-        "Player Foxtrot"
-      ],
-      "winner": "Player Delta"
-    },
-    {
-      "id": 3,
-      "round": "Upper Round 2",
-      "players": [
-        "Player Alpha",
-        "Player Delta",
-        "Player Bravo"
-      ],
-      "winner": "Player Bravo"
-    },
-    {
-      "id": 4,
-      "round": "Upper Round 2",
-      "players": [
-        "Player Charlie",
-        "Player Echo",
-        "Player Foxtrot"
-      ],
-      "winner": "Player Charlie"
-    },
-    {
-      "id": 5,
-      "round": "Upper Final",
-      "players": [
-        "Player Bravo",
-        "Player Charlie",
-        "TBD"
-      ],
-      "winner": "TBD"
-    },
-    {
-      "id": 6,
-      "round": "Grand Final",
-      "players": [
-        "TBD",
-        "TBD",
-        "TBD"
-      ],
-      "winner": "TBD"
-    }
   ]
 };

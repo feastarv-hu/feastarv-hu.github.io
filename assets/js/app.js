@@ -235,6 +235,7 @@ function renderStandings(d) {
 		...["1st", "2nd", "3rd", "4th", "5th", "6th", "7th+"].map((label, index) => ({ key: `place${index}`, label, value: player => player.placementCounts[index], render: player => player.placementCounts[index] })),
 		{ key: "average", label: "Avg Score", value: player => player.matches ? player.points / player.matches : 0, render: player => player.matches ? (player.points / player.matches).toFixed(2) : "0.00" },
 		{ key: "points", label: "Points", value: player => player.points, render: player => `<b>${player.points}</b>` },
+		{ key: "ranking", label: "Ranking", value: player => player.rank, render: player => player.rank },
 		{ key: "status", label: "Status", value: player => player.status, render: player => `<span class="badge ${player.status === "Active" ? "text-bg-success" : "text-bg-secondary"}">${esc(player.status)}</span>` }
 	];
 	const teamColumns = [
@@ -258,12 +259,14 @@ function renderStandings(d) {
 	tabsContainer.innerHTML = periods.map((period, index) => `<button class="standings-tab" id="standings-tab-${index}" type="button" role="tab" aria-controls="standingsTable" aria-selected="${index === 0}" tabindex="${index === 0 ? 0 : -1}" data-view="${period.view}" data-week="${period.week ?? ""}" data-style="${period.style ?? ""}">${period.label}</button>`).join("");
 	const periodButtons = Array.from(tabsContainer.querySelectorAll(".standings-tab"));
 	const tableHeader = document.getElementById("standingsHeader");
+	const searchInput = document.getElementById("standingsSearch");
 	let activeView = "individual";
 	let activeWeek = null;
 	let activeStyle = null;
 	let activeTeams = [];
 	let sortKey = "points";
 	let sortDirection = -1;
+	const normalizeSearch = value => String(value).normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
 	const renderRows = () => {
 		const styleColumns = [
 			{ key: "rank", label: "#", value: player => player.rank, render: player => player.rank },
@@ -280,7 +283,12 @@ function renderStandings(d) {
 				.map((player, index) => ({ ...player, rank: index + 1 }))
 			: activeTeams;
 		tableHeader.innerHTML = columns.map(column => `<th scope="col"><button class="table-sort" data-sort-key="${column.key}" type="button">${column.label}<span class="sort-indicator" aria-hidden="true"></span></button></th>`).join("");
-		const sortedRows = rows.slice().sort((left, right) => {
+		const searchTerm = normalizeSearch(searchInput.value.trim());
+		const filteredRows = searchTerm ? rows.filter(row => {
+			const searchableValues = activeView === "team" || activeView === "week" ? [row.team] : [row.name, row.team];
+			return searchableValues.some(value => normalizeSearch(value || "").includes(searchTerm));
+		}) : rows;
+		const sortedRows = filteredRows.slice().sort((left, right) => {
 			const leftValue = columns.find(column => column.key === sortKey)?.value(left) ?? 0;
 			const rightValue = columns.find(column => column.key === sortKey)?.value(right) ?? 0;
 			const comparison = typeof leftValue === "number"
@@ -288,9 +296,13 @@ function renderStandings(d) {
 				: String(leftValue).localeCompare(String(rightValue));
 			return comparison * sortDirection || left.rank - right.rank;
 		});
-		document.getElementById("standingsTable").innerHTML = (activeView === "week" || activeView === "style") && sortedRows.length === 0
-			? `<tr><td colspan="${columns.length}" class="text-secondary">${activeView === "week" ? `No team results recorded for ${schedulePeriodLabel(activeWeek)} yet.` : `No ${esc(activeStyle)} results recorded yet.`}</td></tr>`
-			: sortedRows.map(row => `<tr>${columns.map(column => `<td>${column.render(row)}</td>`).join("")}</tr>`).join("");
+		document.getElementById("standingsTable").innerHTML = sortedRows.length === 0
+			? `<tr><td colspan="${columns.length}" class="text-secondary">${searchTerm
+				? "No standings match your search."
+				: activeView === "week" ? `No team results recorded for ${schedulePeriodLabel(activeWeek)} yet.`
+					: activeView === "style" ? `No ${esc(activeStyle)} results recorded yet.`
+						: "No standings available."}</td></tr>`
+			: sortedRows.map((row, index) => `<tr>${columns.map(column => `<td>${column.key === "rank" ? index + 1 : column.render(row)}</td>`).join("")}</tr>`).join("");
 		const sortButtons = Array.from(tableHeader.querySelectorAll(".table-sort"));
 		sortButtons.forEach(button => {
 			const active = button.dataset.sortKey === sortKey;
@@ -306,6 +318,7 @@ function renderStandings(d) {
 			});
 		});
 	};
+	searchInput.addEventListener("input", renderRows);
 	periodButtons.forEach(button => button.addEventListener("click", () => {
 		activeView = button.dataset.view;
 		activeWeek = activeView === "week" ? Number(button.dataset.week) : null;
@@ -318,7 +331,7 @@ function renderStandings(d) {
 			tab.setAttribute("aria-selected", String(selected));
 			tab.tabIndex = selected ? 0 : -1;
 		});
-		sortKey = activeView === "individual" ? "points" : activeView === "style" ? "points" : "rank";
+		sortKey = activeView === "individual" || activeView === "style" ? "points" : "rank";
 		sortDirection = activeView === "individual" || activeView === "style" ? -1 : 1;
 		renderRows();
 	}));
